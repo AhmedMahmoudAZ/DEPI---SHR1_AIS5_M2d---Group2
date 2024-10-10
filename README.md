@@ -1,4 +1,4 @@
-# CustomerSentimentandTrendAnalysis
+# Customer Sentiment and Trend Analysis
 DEPI machine learning graduation project 
 
 Our tasks till now :

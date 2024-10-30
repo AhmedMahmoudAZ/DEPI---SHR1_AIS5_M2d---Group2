@@ -68,6 +68,6 @@ tqdm==4.66.5
 typing_extensions==4.12.2
 urllib3==2.2.1
 virtualenv==20.26.3
-waitress==3.0.0
+waitress==3.0.1
 Werkzeug==3.0.3
 wrapt==1.16.0
